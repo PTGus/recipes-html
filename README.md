@@ -6,7 +6,7 @@
 	<p> A simple multi-page recipe website built while learning the basics of web development. </p>
 	</div> <br/>
 		<h2>📖 About the Project</h2>
-			<p> This project is part of the <strong>Foundations</strong> course from <em>The Odin Project</em>. It focuses on building a clean recipe website using only <strong>HTML</strong> to practice essential structure and page-linking skills. </p>
+			<p> This project is about building <strong>Foundations</strong> for HTML. It focuses on building a clean recipe website using only <strong>HTML</strong> to practice essential structure and page-linking skills. </p>
 	<br/>
 		<h2>✨ Features</h2>
 			<ul>
